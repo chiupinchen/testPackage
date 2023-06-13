@@ -1,0 +1,28 @@
+{
+  "name": "@chiupinchen/testPackage",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "url": "https://github.com/chiupinchen/testPackage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiupinchen/testPackage/issues"
+  },
+  "homepage": "https://github.com/chiupinchen/testPackage#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.2",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.1.3"
+  }
+}
