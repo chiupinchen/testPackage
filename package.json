@@ -1,6 +1,6 @@
 {
-  "name": "@chiupinchen/testPackage",
-  "version": "0.0.2",
+  "name": "@chiupinchen/testpackage",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "directories": {
